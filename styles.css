@@ -1,0 +1,26 @@
+#inputField:focus {
+    outline: none;
+}
+input{
+    margin: 1rem;
+}
+
+button{
+    display: block;
+    width: 100%;
+    /* margin: auto; */
+    margin-bottom: 1rem;
+    padding: 6px;
+    background-color: #fab700;
+    color: currentColor;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+button:disabled {
+    background-color: #bfbfbf;
+    color: #777;
+    cursor: not-allowed;
+}
+
