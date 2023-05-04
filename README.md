@@ -24,6 +24,10 @@ To use:
 
 That's all.
 Thanks, and you can always reach out to me.
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/amanchauhann/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/phantomthread_d)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/i_amanchauhann/)
+
+
+Made with ❤️ 
