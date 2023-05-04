@@ -8,7 +8,9 @@ To use:
 2. Go to "Extensions" in your browser.
 3. Click on "Load unpacked" on top right corner.
 ![Web capture_4-5-2023_222442_extensions](https://user-images.githubusercontent.com/44115421/236273176-ea5e09d4-1e94-4a78-9657-353aecd400ef.jpeg)
+
 4. Choose the folder for the repo.
+
 ![folder](https://user-images.githubusercontent.com/44115421/236273593-7d657b2d-1ffc-4dc6-95d3-a6e3e6bdc819.png)
 5. You will see extension listed.
 ![Web capture_4-5-2023_222856_extensions](https://user-images.githubusercontent.com/44115421/236273963-00517650-bdc9-4b7b-95d6-0ac1466819c8.jpeg)
